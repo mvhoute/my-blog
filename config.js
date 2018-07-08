@@ -1,7 +1,7 @@
 module.exports = {
   title: 'h00tblog', // Required
   author: 'Martin van Houte', // Required
-  tagline: 'Frontend Developer',
+  tagline: 'Frontend Developer | Photographer | Music Nerd',
   primaryColor: '#3F2D64', // Required
   showHeaderImage: true,
   showShareButtons: true,

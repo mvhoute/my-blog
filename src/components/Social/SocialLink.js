@@ -7,6 +7,7 @@ const SocialLink = styled.a`
   display: inline-block;
   margin: 5px;
   padding: 5px 10px;
+  transition: all 0.4s;
   text-decoration: none;
 
   svg {
@@ -16,10 +17,16 @@ const SocialLink = styled.a`
     stroke: #6e849c;
     vertical-align: middle;
     width: 20px;
+    transition: stroke 0.4s;
   }
 
   &:hover {
     border-color: #3e465b;
+    background-color: #ffffff;
+    
+    svg {
+    stroke: #3e465b;
+    }
   }
 `;
 
