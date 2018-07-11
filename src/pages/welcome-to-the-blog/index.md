@@ -22,6 +22,6 @@ Besides frontend development, I'd also like to write about other stuff that inte
 
 ## Questions? Suggestions?
 
-If you have any questions or suggestions, please reach out to me! You can contact me on mvhoute [at] gmail [dot] com.  
+If you have any questions or suggestions, please reach out to me! You can contact me on [Twitter](https://twitter.com/mvhoute).  
 
 (Photo by Adam Solomon on Unsplash)
