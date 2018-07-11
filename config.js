@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'h00tblog', // Required
+  title: 'Martin van Houte', // Required
   author: 'Martin van Houte', // Required
   tagline: 'Frontend Developer | Photographer | Music Nerd',
   primaryColor: '#3F2D64', // Required
@@ -9,7 +9,7 @@ module.exports = {
   social: {
     // website: 'https://ryanfitzgerald.ca',
     github: 'https://github.com/mvhoute',
-    // twitter: 'https://twitter.com/ryanafitzgerald',
+    twitter: 'https://twitter.com/mvhoute',
     linkedin: 'https://www.linkedin.com/in/mvhoute/'
   }
 };
